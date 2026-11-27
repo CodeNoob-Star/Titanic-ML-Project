@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models (nếu model quá lớn)
+
+# Output
+output/
+
+# System files
+.DS_Store
+Thumbs.db
